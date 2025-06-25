@@ -45,3 +45,4 @@ To install missing packages (Debian/Ubuntu):
 sudo apt update
 sudo apt install sysstat procps
 
+Project url : https://github.com/PraneethVR10/Server-Performance-Stats
